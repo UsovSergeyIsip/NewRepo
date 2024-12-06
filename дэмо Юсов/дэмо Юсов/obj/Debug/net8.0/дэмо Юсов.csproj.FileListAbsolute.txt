@@ -1,0 +1,29 @@
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\bin\Debug\net8.0\appsettings.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\bin\Debug\net8.0\дэмо Юсов.staticwebassets.endpoints.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\bin\Debug\net8.0\дэмо Юсов.exe
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\bin\Debug\net8.0\дэмо Юсов.deps.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\bin\Debug\net8.0\дэмо Юсов.runtimeconfig.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\bin\Debug\net8.0\дэмо Юсов.dll
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\bin\Debug\net8.0\дэмо Юсов.pdb
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\дэмо Юсов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\дэмо Юсов.AssemblyInfoInputs.cache
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\дэмо Юсов.AssemblyInfo.cs
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\дэмо Юсов.csproj.CoreCompileInputs.cache
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\дэмо Юсов.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\scopedcss\bundle\дэмо Юсов.styles.css
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets\msbuild.дэмо Юсов.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets\msbuild.дэмо Юсов.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets\msbuild.build.дэмо Юсов.props
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.дэмо Юсов.props
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.дэмо Юсов.props
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\дэмо Юсов.dll
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\refint\дэмо Юсов.dll
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\дэмо Юсов.pdb
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\дэмо Юсов.genruntimeconfig.cache
+C:\Users\CCU\Desktop\Юсов Сергей\дэмо Юсов\дэмо Юсов\obj\Debug\net8.0\ref\дэмо Юсов.dll
